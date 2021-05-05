@@ -7,9 +7,9 @@ const EmployeeTable = (props) => {
   window.debugprops = props
   return (
     <ul>
-        {props.employees.map(employee => (
+        {props.employees.map((employee, i) => (
           
-            <div key={employee.id.value} className="card">
+            <div key={`employee-${i}`} className="card">
               
             <li className="list-group-item" >
             <strong>Email:</strong> {employee.email}
@@ -18,8 +18,7 @@ const EmployeeTable = (props) => {
             </li>
             <li className="list-group-item" >
             <strong>Name:</strong> 
-            {employee.name.first}
-            {employee.name.last}
+            {`${employee.name.first} ${employee.name.last}`}
             </li>
             <span className="remove" onClick={() => props.handleRemove(employee.id.value)}>X</span>
             </div>
