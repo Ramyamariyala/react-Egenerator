@@ -56,17 +56,6 @@ class App extends Component {
     // const searchValue = document.querySelector("[name=search]").value
     let filtered = [...this.state.originalEmployees];
     filtered = filtered.filter(employee => employee.name.first.toLowerCase().includes(searchValue) || employee.name.last.toLowerCase().includes(searchValue) )
-
-  //   const searchValue = this.state.search.toLowerCase()
-  //   // const searchValue = document.querySelector("[name=search]").value
-  //   let filtered = [...this.state.originalEmployees];
-  //   filtered = filtered.filter(employee => {
-
-  //   // employee.name.first.toLowerCase().includes(searchValue) ||
-  //   employee.name.last.toLowerCase().includes(searchValue)
-
-  // })
-
    
 
     this.setState({
