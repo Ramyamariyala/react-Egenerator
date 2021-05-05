@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/employee-generator/static/css/main.9e4f4214.chunk.css",
-    "main.js": "/employee-generator/static/js/main.7288f2b8.chunk.js",
-    "main.js.map": "/employee-generator/static/js/main.7288f2b8.chunk.js.map",
-    "runtime-main.js": "/employee-generator/static/js/runtime-main.ac4e702a.js",
-    "runtime-main.js.map": "/employee-generator/static/js/runtime-main.ac4e702a.js.map",
-    "static/css/2.800be05e.chunk.css": "/employee-generator/static/css/2.800be05e.chunk.css",
-    "static/js/2.45974f51.chunk.js": "/employee-generator/static/js/2.45974f51.chunk.js",
-    "static/js/2.45974f51.chunk.js.map": "/employee-generator/static/js/2.45974f51.chunk.js.map",
-    "static/js/3.db0f6243.chunk.js": "/employee-generator/static/js/3.db0f6243.chunk.js",
-    "static/js/3.db0f6243.chunk.js.map": "/employee-generator/static/js/3.db0f6243.chunk.js.map",
-    "index.html": "/employee-generator/index.html",
-    "static/css/2.800be05e.chunk.css.map": "/employee-generator/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.9e4f4214.chunk.css.map": "/employee-generator/static/css/main.9e4f4214.chunk.css.map",
-    "static/js/2.45974f51.chunk.js.LICENSE.txt": "/employee-generator/static/js/2.45974f51.chunk.js.LICENSE.txt"
+    "main.css": "/react-Egenerator/static/css/main.9e4f4214.chunk.css",
+    "main.js": "/react-Egenerator/static/js/main.fe0bd315.chunk.js",
+    "main.js.map": "/react-Egenerator/static/js/main.fe0bd315.chunk.js.map",
+    "runtime-main.js": "/react-Egenerator/static/js/runtime-main.2d7d1204.js",
+    "runtime-main.js.map": "/react-Egenerator/static/js/runtime-main.2d7d1204.js.map",
+    "static/css/2.800be05e.chunk.css": "/react-Egenerator/static/css/2.800be05e.chunk.css",
+    "static/js/2.45974f51.chunk.js": "/react-Egenerator/static/js/2.45974f51.chunk.js",
+    "static/js/2.45974f51.chunk.js.map": "/react-Egenerator/static/js/2.45974f51.chunk.js.map",
+    "static/js/3.db0f6243.chunk.js": "/react-Egenerator/static/js/3.db0f6243.chunk.js",
+    "static/js/3.db0f6243.chunk.js.map": "/react-Egenerator/static/js/3.db0f6243.chunk.js.map",
+    "index.html": "/react-Egenerator/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/react-Egenerator/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.9e4f4214.chunk.css.map": "/react-Egenerator/static/css/main.9e4f4214.chunk.css.map",
+    "static/js/2.45974f51.chunk.js.LICENSE.txt": "/react-Egenerator/static/js/2.45974f51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac4e702a.js",
+    "static/js/runtime-main.2d7d1204.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.45974f51.chunk.js",
     "static/css/main.9e4f4214.chunk.css",
-    "static/js/main.7288f2b8.chunk.js"
+    "static/js/main.fe0bd315.chunk.js"
   ]
 }
